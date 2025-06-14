@@ -56,3 +56,7 @@ Dataset Source: `sklearn.datasets.fetch_california_housing()`
 
 ## 📈 Sample Output
 
+- Model Performance:
+- R² Score (Accuracy): 0.6063
+- Mean Squared Error: 0.5315
+- Root Mean Squared Error: 0.7291
