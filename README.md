@@ -1,4 +1,4 @@
-# CaliforniaHousePricePrediction-LinearRegression
+
 # 🏠 California Housing Price Prediction – Linear Regression
 
 This project uses the **California Housing Dataset** to perform **Exploratory Data Analysis (EDA)** and build a **Linear Regression model** to predict house prices based on features like median income, average rooms, and geographic location.
